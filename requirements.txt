@@ -1,0 +1,7 @@
+streamlit
+pandas
+scikit-learn==1.3.0
+groq
+python-dotenv
+PyPDF2
+numpy<2.0
